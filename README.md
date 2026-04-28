@@ -294,3 +294,7 @@ examples/
 
 - [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code)
 - [Context Engineering Best Practices](https://www.philschmid.de/context-engineering)
+
+## Further Reading
+
+- [Build a Multi-Agent AI Trading System](https://orthogonal.info/build-a-multi-agent-ai-trading-system-with-langgraph-and-python/) — Building production AI agent systems with LangGraph and Python
